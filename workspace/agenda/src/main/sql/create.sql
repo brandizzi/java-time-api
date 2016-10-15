@@ -1,0 +1,5 @@
+CREATE TABLE Evento (
+	id 			INTEGER PRIMARY KEY,
+	titulo		VARCHAR(100) NOT NULL,
+	allDay		BOOLEAN
+);

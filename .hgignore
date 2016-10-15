@@ -1,0 +1,8 @@
+workspace/.recommenders
+workspace/.metadata
+workspace/agenda/.classpath
+workspace/agenda/.project
+workspace/agenda/.settings
+workspace/agenda/target
+workspace/agenda/*.log
+workspace/RemoteSystemsTempFiles
